@@ -9,3 +9,4 @@ Botun geliştirici ekibi ! Mıstık ama 1,62#1887 (606828535423959041) ve !! �
 
 Herneyse iyi günlerde kullanın.
 Umarım bot altyapısı işinize yarar.
+TheMechanic'S = https://discord.gg/BwM6g5Ph55
